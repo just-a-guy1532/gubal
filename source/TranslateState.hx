@@ -38,6 +38,10 @@ class TranslateState extends MusicBeatState
         text.scrollFactor.set();
         add(text);
 
+        #if mobileC
+        addVirtualPad(NONE, A);
+        #end
+
         super.create();
     }
 
