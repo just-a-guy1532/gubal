@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Despite the fact that I’m stranded in a world I am a complete stranger to.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "I'm having a pretty good time!\\n"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "darwin",
+			"boxState": "normal",
+			"expression": "mic",
+			"text": "Glad to hear it buddy!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "darwin",
+			"boxState": "normal",
+			"expression": "phone look",
+			"text": "Ooo I just got a text from Gumball!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What's it say?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "darwin",
+			"boxState": "normal",
+			"expression": "phone look",
+			"text": "''“Anais was right, I just hit the jackpot, get over here soon we can’t carry this all by ourselves''"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "darwin",
+			"boxState": "normal",
+			"expression": "phone look",
+			"text": "Anais texted me too"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "darwin",
+			"boxState": "normal",
+			"expression": "phone look",
+			"text": "\"\"''this guy has like 100 different kinds of candy in his van, this makes literally no sense''"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ooooo I could go for some cakes right now\r"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "What do you say darwin, one more song then we head out for dessert?\r"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "darwin",
+			"boxState": "normal",
+			"expression": "mic",
+			"text": "Yeah! Sounds great!"
+		}
+	]
+}

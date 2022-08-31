@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"expression": "mic",
+			"text": "Man, all that singing has got me tired. ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "darwin"
+		},
+		{
+			"expression": "regular",
+			"text": "And Hungry!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "darwin"
+		},
+		{
+			"expression": "talk",
+			"text": "Nothing a highly unhealthy amount of candy to fix that!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Aw yeah, candy time!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "darwin"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Man, this is nice...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Maybe we don’t have to go back home.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "At least here your dad isn’t constantly trying to kill me."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I guess yeah, but we should find our way out after this."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Who knows what could happen from us staying here too long?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "C'mon Girlfriend!"
+		}
+	]
+}

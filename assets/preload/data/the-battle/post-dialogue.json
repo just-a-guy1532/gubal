@@ -1,0 +1,158 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gumball",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "You know what I’'m not even gonna win."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gumball",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "I don’'t even know what I'd do with the money.\\n"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gumball",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "There'’s probably pennies more expensive than what I'd get out of this."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're really giving up, just like that?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gumball",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's not giving up, it's called retirement."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Welp, you got your fantasy rap battle, can we figure out how to get home now?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh yeah."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "uhh...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Oh, I've got an idea!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey Gumball!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gumball",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "What?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How would you like to let us inside your house.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "for 10 WHOLE DOLLARS??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Did you really just offer a child 10 dollars to let you inside their house?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Think about it, out of all the places we could have landed in elmore, we ended up right in front of their house."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "The key to us getting out of here probably has to do with the Wattersons!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You know what, for the first time today something you've said might actually help us"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gumball",
+			"boxState": "normal",
+			"expression": "regular",
+			"text": "I don’t see what could possibly go wrong with letting a stranger into my house!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gumball",
+			"boxState": "normal",
+			"expression": "regular",
+			"text": "Come on in!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Trust me babe, we’'ll be out of here in no time."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Umm, If you say so."
+		}
+	]
+}

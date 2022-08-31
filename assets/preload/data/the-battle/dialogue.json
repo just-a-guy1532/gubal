@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"expression": "smug",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gumball"
+		},
+		{
+			"expression": "smug",
+			"text": "I was much more open to this idea when it seemed like I could win.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gumball"
+		},
+		{
+			"expression": "mad",
+			"text": "I'’m not even sure how you're the one who’s winning.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gumball"
+		},
+		{
+			"expression": "talk",
+			"text": "We'’re saying like the exact same amount of notes.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gumball"
+		},
+		{
+			"expression": "smug",
+			"text": "If anything you're singing less than me.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gumball"
+		},
+		{
+			"expression": "talk",
+			"text": "Listen buddy, I'm winning because I say I'm winning.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "If you want me to say you’'re winning, you better start doing better.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "regular",
+			"text": "Anything for those 5 bucks…!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gumball"
+		},
+		{
+			"expression": "talk",
+			"text": "Seriously, why are you so determined to get 5 dollars???",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Like what would you even buy with 5 dollars?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "regular",
+			"text": "Good question.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gumball"
+		},
+		{
+			"expression": "regular",
+			"text": "I'd probably buy an answer.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gumball"
+		},
+		{
+			"expression": "talk",
+			"text": "Alright, you ready for the third song?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "regular",
+			"text": "As ready as I am to get that money!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gumball"
+		},
+		{
+			"expression": "dumb",
+			"text": "No holding back!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gumball"
+		}
+	]
+}

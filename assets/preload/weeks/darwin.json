@@ -1,0 +1,25 @@
+{
+	"storyName": "Orange Fish",
+	"hideFreeplay": false,
+	"weekBackground": "cumwin",
+	"weekBefore": "gumball",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Out-Of-Water",
+			"darwin",
+			[
+				249,
+				109,
+				8
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 2"
+}

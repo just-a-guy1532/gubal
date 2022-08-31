@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Gumball Idle",
+	"idle_anim": "M Gumball Idle",
+	"position": [
+		550,
+		190
+	],
+	"scale": 0.35,
+	"image": "Menu_Gumball"
+}

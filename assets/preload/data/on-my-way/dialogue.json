@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.03,
+			"portrait": "darwin",
+			"boxState": "normal",
+			"expression": "regular",
+			"text": "So you fell out of the sky and landed in front of our house?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's what happened yeah"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "anais",
+			"boxState": "normal",
+			"expression": "facepalm",
+			"text": "I have a better question, Gumball, why did you let 2 strangers into our house?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gumball",
+			"boxState": "normal",
+			"expression": "regular",
+			"text": "They gave me 10 dollars"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "anais",
+			"boxState": "normal",
+			"expression": "proud",
+			"text": "Have you ever seen a stranger danger psa?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "anais",
+			"boxState": "normal",
+			"expression": "proud",
+			"text": "Or were you too busy getting free candy from a white van?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gumball",
+			"boxState": "normal",
+			"expression": "dumb",
+			"text": "Wait white vans give out free candy?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "anais",
+			"boxState": "normal",
+			"expression": "regular",
+			"text": "No I was being sarcastic-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gumball",
+			"boxState": "normal",
+			"expression": "regular",
+			"text": "Sorry guys I'’ve gotta go, there's free candy that needs me!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "anais",
+			"boxState": "normal",
+			"expression": "facepalm",
+			"text": "Why are you like this...\r"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "darwin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ooooo, bring me back some!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gumball",
+			"boxState": "normal",
+			"expression": "regular",
+			"text": "Will do buddy!\r"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "anais",
+			"boxState": "normal",
+			"expression": "regular",
+			"text": "Sorry, I'’ve gotta go make sure he doesn't get kidnapped."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "anais",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Darwin, keep the guests occupied."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "darwin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Will do!\r"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sooooooooooo…...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Wanna rap battle?"
+		}
+	]
+}

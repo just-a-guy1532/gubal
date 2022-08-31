@@ -1,0 +1,76 @@
+{
+	"position": [
+		-660,
+		-330
+	],
+	"dialogue_pos": "left",
+	"scale": 0.599999999999999,
+	"image": "gumball_dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "mad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "gumball mad",
+			"idle_name": "gumball mad0000"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "smug",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "gumball smug",
+			"idle_name": "gumball smug0000"
+		},
+		{
+			"loop_offsets": [
+				42,
+				5
+			],
+			"anim": "regular",
+			"idle_offsets": [
+				40,
+				5
+			],
+			"loop_name": "gumball regular",
+			"idle_name": "gumball regular0000"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "dumb",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "gumball dumb",
+			"idle_name": "gumball dumb0000"
+		},
+		{
+			"loop_name": "gumball mic",
+			"idle_offsets": [
+				30,
+				0
+			],
+			"idle_name": "gumball mic0000",
+			"anim": "mic",
+			"loop_offsets": [
+				30,
+				0
+			]
+		}
+	]
+}

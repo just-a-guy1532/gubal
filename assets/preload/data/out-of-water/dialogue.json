@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "darwin",
+			"boxState": "normal",
+			"expression": "mic",
+			"text": "Wow! You’r ability to make fax machine noises is very impressive!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Thanks, I’ve been practicing since I was a kid."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "darwin",
+			"boxState": "normal",
+			"expression": "mic",
+			"text": "My voice is pretty high pitched too, but it’s gonna change when I hit puberty!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "darwin",
+			"boxState": "normal",
+			"expression": "mic",
+			"text": "Soon."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "darwin",
+			"boxState": "normal",
+			"expression": "mic",
+			"text": "Any-day."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "darwin",
+			"boxState": "normal",
+			"expression": "mic",
+			"text": "Gotta be coming."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don’t worry buddy, it’'ll probably happen. I don’t know how fish puberty works."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "darwin",
+			"boxState": "normal",
+			"expression": "mic",
+			"text": "Okay can we just go onto the next song \\nbefore I have an existential crisis?"
+		}
+	]
+}

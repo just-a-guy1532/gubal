@@ -1,0 +1,151 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gumball",
+			"boxState": "normal",
+			"expression": "regular",
+			"text": "For someone who likes rap battles so much, you’re not really original with them."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "W-what??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What's that supposed to mean/?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gumball",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "You were literally just repeating the same thing I would do after I did it\r//."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's debatable."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gumball",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "Is it though?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gumball",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "You know what, I don’t even care about this, where’s my money?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well you didn’t win, so you don’t get the money."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "gumball",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHAT?! YOU NEVER SAID I HAD TO WIN!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You should'’ve read the fine print bro, basic deal making etiquette ."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gumball",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "There was no fine print, we were talking verbally."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Listen man, do you wanna keep whining about “''broken deals\"\"''” and ''“fine print''..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Or do you wanna get your crisp 5 american dollars?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gumball",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'’ve invested far too much time into this to not get that money."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's just.. 5 dollars..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why are you so dedicated to get 5 dollars?\r"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gumball",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "I don’t know, probably capitalism."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gumball",
+			"boxState": "normal",
+			"expression": "regular",
+			"text": "Alright, enough trying to figure out my\\nmotivation, start the song!"
+		}
+	]
+}

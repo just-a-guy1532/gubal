@@ -1,0 +1,169 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-357,
+				0
+			],
+			"loop": false,
+			"anim": "cheer",
+			"fps": 24,
+			"name": "GF Cheer",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-340,
+				-19
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GF left note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-350,
+				-20
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GF Down Note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-350,
+				4
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GF Up Note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-340,
+				-20
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GF Right Note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-362,
+				-26
+			],
+			"loop": false,
+			"anim": "sad",
+			"fps": 24,
+			"name": "gf sad",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"offsets": [
+				-280,
+				-11
+			],
+			"loop": false,
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "GF Dancing Beat",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"offsets": [
+				-280,
+				-11
+			],
+			"loop": false,
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "GF Dancing Beat",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			]
+		},
+		{
+			"offsets": [
+				-292,
+				-17
+			],
+			"loop": true,
+			"anim": "scared",
+			"fps": 24,
+			"name": "GF FEAR",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GF_bed",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,43 @@
+{
+	"storyName": "Blue Cat",
+	"hideFreeplay": false,
+	"weekBackground": "cumball",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"The-Stranger",
+			"gumball",
+			[
+				2,
+				181,
+				238
+			]
+		],
+		[
+			"The-Rapper",
+			"gumball",
+			[
+				2,
+				181,
+				238
+			]
+		],
+		[
+			"The-Battle",
+			"gumball",
+			[
+				2,
+				181,
+				238
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1"
+}

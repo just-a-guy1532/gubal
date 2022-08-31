@@ -1,0 +1,256 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "I think I broke my everything…...",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "bf"
+		},
+		{
+			"expression": "regular",
+			"text": "Dang you ate dirt, are you okay?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gumball"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah I'm fine it's probably just brain damage.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Wait a second..",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "ARE YOU GUMBALL WATTERSON??!?",
+			"boxState": "angry",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "smug",
+			"text": "Last time I checked yeah",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gumball"
+		},
+		{
+			"expression": "talk",
+			"text": "I used to watch your show all the time as a kid!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "regular",
+			"text": "Show?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gumball"
+		},
+		{
+			"expression": "confused",
+			"text": "He doesn’t know his life is just a cartoon, change the subject.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Y'know I can hear you right?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gumball"
+		},
+		{
+			"expression": "talk",
+			"text": "I'm literally like... two feet away from you\r.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gumball"
+		},
+		{
+			"expression": "talk",
+			"text": "oh..",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "anyways, did you see when I fell out of the sky?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "smug",
+			"text": "yeah?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gumball"
+		},
+		{
+			"expression": "talk",
+			"text": "crazy right?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "regular",
+			"text": "Not really to be honest, but how did it happen?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gumball"
+		},
+		{
+			"expression": "talk",
+			"text": "We were watching Tv when all of a sudden the screen became static",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Next thing we know we’re falling outta the sky",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "smug",
+			"text": "Huh, well that sucks.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gumball"
+		},
+		{
+			"expression": "smug",
+			"text": "see ya\r",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gumball"
+		},
+		{
+			"expression": "talk",
+			"text": "wait..",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "where are you going?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "smug",
+			"text": "Idk, somewhere I guess",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gumball"
+		},
+		{
+			"expression": "shocked",
+			"text": "Wait!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "uh...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "I’ll give you 5 dollars to rap battle me!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Boyfriend, why are you giving a random kid you just met money to hang out with you?",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Cause he’s like my childhood hero! Imagine if you got to hang out with that guy from the dating game you really like!",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "I guess that would be cool and not at all life threatening.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Fine.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Great!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "So Gumball, you in?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "smug",
+			"text": "(..Take the stranger I just met'’s money who has a weird and unnatural obsession with me OR walk away and report to the fbi?)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gumball"
+		},
+		{
+			"expression": "smug",
+			"text": "....",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gumball"
+		},
+		{
+			"expression": "regular",
+			"text": "I'll take those 5 dollars please.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gumball"
+		}
+	]
+}

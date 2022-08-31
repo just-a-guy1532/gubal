@@ -1,0 +1,10 @@
+{
+	"startx":100,
+	"starty":576,
+	"gfx":512,
+	"gfy":0,
+	"backgroundSprite":"gumballBG/GumballWeek_BG",
+	"bpm":110
+	
+	
+}
