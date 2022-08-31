@@ -8,6 +8,9 @@ import openfl.Lib;
 import openfl.display.FPS;
 import openfl.display.Sprite;
 import openfl.events.Event;
+import sys.FileSystem;
+import lime.app.Application;
+import lime.system.System;
 
 class Main extends Sprite
 {
@@ -19,8 +22,34 @@ class Main extends Sprite
 	var skipSplash:Bool = true; // Whether to skip the flixel splash screen that appears in release mode.
 	var startFullscreen:Bool = false; // Whether to start the game in fullscreen on desktop targets
 	public static var fpsVar:FPS;
+        private static var dataPath:String = null;
 
 	// You can pretty much ignore everything from here on - your code should go in your states.
+
+        static public function getDataPath():String 
+    {
+        if (dataPath != null && dataPath.length > 0) 
+        {
+            return dataPath;
+        } 
+        else 
+        {
+        	#if mobile
+            if (FileSystem.exists("/storage/emulated/0/Android/data/" + Application.current.meta.get("packageName") + "/files/")) 
+            {
+                dataPath = "/storage/emulated/0/Android/data/" + Application.current.meta.get("packageName") + "/files/";
+            } 
+            else 
+            {
+                Application.current.window.alert("couldn't find directory: " + "/storage/emulated/0/Android/data/" + Application.current.meta.get("packageName") + "/files/" + "\n" + "try creating it and copying assets/assets, assets/mods from apk to it","an ERROR occured");
+                dataPath = System.applicationStorageDirectory;
+            }
+            #else
+                dataPath = "";
+            #end
+        }
+        return dataPath;
+    }
 
 	public static function main():Void
 	{
@@ -75,13 +104,11 @@ class Main extends Sprite
 		#end
 		addChild(new FlxGame(gameWidth, gameHeight, initialState, zoom, framerate, framerate, skipSplash, startFullscreen));
 
-		#if !mobile
 		fpsVar = new FPS(10, 3, 0xFFFFFF);
 		addChild(fpsVar);
 		if(fpsVar != null) {
 			fpsVar.visible = ClientPrefs.showFPS;
 		}
-		#end
 
 		#if html5
 		FlxG.autoPause = false;
