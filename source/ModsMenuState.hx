@@ -90,7 +90,7 @@ class ModsMenuState extends MusicBeatState
 		noModsTxt.screenCenter();
 		visibleWhenNoMods.push(noModsTxt);
 
-		var path:String = 'modsList.txt';
+		var path:String = Main.getDataPath() + 'modsList.txt';
 		if(FileSystem.exists(path))
 		{
 			var leMods:Array<String> = CoolUtil.coolTextFile(path);
@@ -109,7 +109,7 @@ class ModsMenuState extends MusicBeatState
 
 		// FIND MOD FOLDERS
 		var boolshit = true;
-		if (FileSystem.exists("modsList.txt")){
+		if (FileSystem.exists(Main.getDataPath() + "modsList.txt")){
 			for (folder in Paths.getModDirectories())
 			{
 				if(!Paths.ignoreModFolders.contains(folder))
@@ -344,6 +344,10 @@ class ModsMenuState extends MusicBeatState
 		updatePosition();
 
 		FlxG.mouse.visible = true;
+
+                #if mobileC
+        addVirtualPad(UP_DOWN, B);
+        #end
 
 		super.create();
 	}
