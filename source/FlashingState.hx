@@ -32,6 +32,11 @@ class FlashingState extends MusicBeatState
 			32);
 		warnText.setFormat(Paths.font('vcr.ttf'), 32, FlxColor.WHITE, CENTER);
 		warnText.screenCenter(Y);
+
+                #if mobileC
+		addVirtualPad(NONE, A_B);
+		#end
+
 		add(warnText);
 	}
 
