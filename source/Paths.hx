@@ -141,7 +141,7 @@ class Paths
 			return file;
 		}
 		#end
-		return 'assets/videos/$key.$VIDEO_EXT';
+		return Main.getDataPath() + 'assets/videos/$key.$VIDEO_EXT';
 	}
 
 	static public function sound(key:String, ?library:String):Dynamic
@@ -185,7 +185,7 @@ class Paths
 			return file;
 		}
 		#end
-		return 'songs:assets/songs/${song.toLowerCase().replace(' ', '-')}/Voices.$SOUND_EXT';
+		return returnSongFile(Main.getDataPath() + 'songs:assets/songs/${song.toLowerCase().replace(' ', '-')}/Voices.$SOUND_EXT');
 	}
 
 	inline static public function inst(song:String):Any
@@ -196,7 +196,7 @@ class Paths
 			return file;
 		}
 		#end
-		return 'songs:assets/songs/${song.toLowerCase().replace(' ', '-')}/Inst.$SOUND_EXT';
+		return returnSongFile(Main.getDataPath() + 'songs:assets/songs/${song.toLowerCase().replace(' ', '-')}/Inst.$SOUND_EXT');
 	}
 
 	#if MODS_ALLOWED
@@ -239,21 +239,21 @@ class Paths
 			return File.getContent(mods(key));
 		#end
 
-		if (FileSystem.exists(getPreloadPath(key)))
-			return File.getContent(getPreloadPath(key));
+		if (FileSystem.exists(Main.getDataPath() + getPreloadPath(key)))
+			return File.getContent(Main.getDataPath() + getPreloadPath(key));
 
 		if (currentLevel != null)
 		{
 			var levelPath:String = '';
 			if(currentLevel != 'shared') {
 				levelPath = getLibraryPathForce(key, currentLevel);
-				if (FileSystem.exists(levelPath))
+				if (FileSystem.exists(Main.getDataPath() + levelPath))
 					return File.getContent(levelPath);
 			}
 
 			levelPath = getLibraryPathForce(key, 'shared');
-			if (FileSystem.exists(levelPath))
-				return File.getContent(levelPath);
+			if (FileSystem.exists(Main.getDataPath() + levelPath))
+				return File.getContent(Main.getDataPath() + levelPath);
 		}
 		#end
 		return Assets.getText(getPath(key, TEXT));
@@ -334,7 +334,7 @@ class Paths
 	}
 
 	inline static public function mods(key:String = '') {
-		return 'mods/' + key;
+		return Main.getDataPath() + 'mods/' + key;
 	}
 	
 	inline static public function modsFont(key:String) {
@@ -380,7 +380,7 @@ class Paths
 				return fileToCheck;
 			}
 		}
-		return 'mods/' + key;
+		return Main.getDataPath() + 'mods/' + key;
 	}
 
 	static public function getModDirectories():Array<String> {
