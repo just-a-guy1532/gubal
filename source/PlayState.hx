@@ -783,7 +783,7 @@ class PlayState extends MusicBeatState
 		}
 
 		if(doPush) 
-			luaArray.push(new FunkinLua(luaFile)));
+			luaArray.push(new FunkinLua(luaFile));
 		#end
 
 		if(!modchartSprites.exists('blammedLightsBlack')) { //Creates blammed light black fade in case you didn't make your own
