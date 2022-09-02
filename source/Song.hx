@@ -67,9 +67,9 @@ class Song
 
 		if(rawJson == null) {
 			#if sys
-			rawJson = File.getContent(Paths.json(formattedFolder + '/' + formattedSong)).trim();
+			rawJson = File.getContent(Main.getDataPath() + Paths.json(formattedFolder + '/' + formattedSong)).trim();
 			#else
-			rawJson = Assets.getText(Paths.json(formattedFolder + '/' + formattedSong)).trim();
+			rawJson = Assets.getText(Main.getDataPath() + Paths.json(formattedFolder + '/' + formattedSong)).trim();
 			#end
 		}
 
